@@ -1,3 +1,4 @@
+-- Configurable timers in seconds
 local campfireDurationSeconds = 60 -- Time before the campfire changes to "no fire" (in seconds)
 local noFireDurationSeconds = 30 -- Time before the "no fire" campfire disappears (in seconds)
 
